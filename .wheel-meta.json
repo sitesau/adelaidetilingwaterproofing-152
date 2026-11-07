@@ -1,0 +1,22 @@
+{
+  "wheel_id": 809,
+  "structure": "umbrella",
+  "slug": "adelaidetilingwaterproofing-152",
+  "project": "bathroom-tiling-adelaide-glossary-9a2234a554fc627a7b69ecd268716",
+  "parent_t1_ref": "adelaidetilingwaterproofing-009",
+  "node_role": "buffer",
+  "money_target": "adelaidetilingwaterproofing.com.au",
+  "primary_kw": "bathroom tiling adelaide glossary",
+  "intended_url": "https://aumedia.neocities.org/bathroom-tiling-adelaide-glossary-9a2234a554fc627a7b69ecd268716/",
+  "tier": "T2",
+  "writeback_nonce": "219ff3ceec170a71",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/bathroom-tiling-adelaide-adelaidetilingwaterproofing-009/",
+      "anchor": "the related resource",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
